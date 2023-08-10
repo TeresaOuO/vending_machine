@@ -1,0 +1,11 @@
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/bin/Debug/06131756 周子彤.exe.config
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/bin/Debug/06131756 周子彤.exe
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/bin/Debug/06131756 周子彤.pdb
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.csprojResolveAssemblyReference.cache
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/_06131756_周子彤.Form1.resources
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/_06131756_周子彤.Properties.Resources.resources
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.csproj.GenerateResource.Cache
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.exe
+C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.pdb
+/Users/chou/推甄用/Upload to Github/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.exe
+/Users/chou/推甄用/Upload to Github/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.pdb
