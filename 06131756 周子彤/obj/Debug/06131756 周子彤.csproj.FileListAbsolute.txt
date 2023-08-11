@@ -9,3 +9,13 @@ C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 �
 C:/Users/user/Desktop/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.pdb
 /Users/chou/推甄用/Upload to Github/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.exe
 /Users/chou/推甄用/Upload to Github/06131756 周子彤/06131756 周子彤/obj/Debug/06131756 周子彤.pdb
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\bin\Debug\06131756 周子彤.exe.config
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\bin\Debug\06131756 周子彤.exe
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\bin\Debug\06131756 周子彤.pdb
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\obj\Debug\06131756 周子彤.csproj.AssemblyReference.cache
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\obj\Debug\_06131756_周子彤.Form1.resources
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\obj\Debug\_06131756_周子彤.Properties.Resources.resources
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\obj\Debug\06131756 周子彤.csproj.GenerateResource.cache
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\obj\Debug\06131756 周子彤.csproj.CoreCompileInputs.cache
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\obj\Debug\06131756 周子彤.exe
+C:\Users\teres\Source\Repos\TeresaOuO\vending_machine\06131756 周子彤\obj\Debug\06131756 周子彤.pdb

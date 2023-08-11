@@ -63,7 +63,7 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(434, 721);
+            this.button9.Location = new System.Drawing.Point(273, 651);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(114, 23);
             this.button9.TabIndex = 53;
@@ -73,7 +73,7 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(189, 721);
+            this.button8.Location = new System.Drawing.Point(99, 651);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(114, 23);
             this.button8.TabIndex = 52;
@@ -86,16 +86,17 @@
             this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.label7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label7.Location = new System.Drawing.Point(93, 514);
+            this.label7.Location = new System.Drawing.Point(54, 471);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(559, 189);
+            this.label7.Size = new System.Drawing.Size(399, 168);
             this.label7.TabIndex = 51;
             this.label7.Text = "顯示購買軟性飲料類型數量金額";
             // 
             // textBox9
             // 
             this.textBox9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.textBox9.Location = new System.Drawing.Point(548, 479);
+            this.textBox9.Enabled = false;
+            this.textBox9.Location = new System.Drawing.Point(396, 436);
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(32, 22);
             this.textBox9.TabIndex = 50;
@@ -103,7 +104,8 @@
             // textBox8
             // 
             this.textBox8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.textBox8.Location = new System.Drawing.Point(442, 479);
+            this.textBox8.Enabled = false;
+            this.textBox8.Location = new System.Drawing.Point(319, 436);
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(32, 22);
             this.textBox8.TabIndex = 49;
@@ -111,7 +113,8 @@
             // textBox7
             // 
             this.textBox7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.textBox7.Location = new System.Drawing.Point(334, 479);
+            this.textBox7.Enabled = false;
+            this.textBox7.Location = new System.Drawing.Point(238, 436);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(32, 22);
             this.textBox7.TabIndex = 48;
@@ -119,7 +122,8 @@
             // textBox6
             // 
             this.textBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.textBox6.Location = new System.Drawing.Point(225, 479);
+            this.textBox6.Enabled = false;
+            this.textBox6.Location = new System.Drawing.Point(153, 436);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(32, 22);
             this.textBox6.TabIndex = 47;
@@ -127,7 +131,8 @@
             // textBox5
             // 
             this.textBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.textBox5.Location = new System.Drawing.Point(126, 479);
+            this.textBox5.Enabled = false;
+            this.textBox5.Location = new System.Drawing.Point(76, 436);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(32, 22);
             this.textBox5.TabIndex = 46;
@@ -135,7 +140,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(40, 481);
+            this.label6.Location = new System.Drawing.Point(12, 439);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(49, 12);
             this.label6.TabIndex = 45;
@@ -144,7 +149,7 @@
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button7.Location = new System.Drawing.Point(530, 433);
+            this.button7.Location = new System.Drawing.Point(378, 390);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 23);
             this.button7.TabIndex = 44;
@@ -155,7 +160,7 @@
             // button6
             // 
             this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button6.Location = new System.Drawing.Point(420, 433);
+            this.button6.Location = new System.Drawing.Point(297, 390);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 23);
             this.button6.TabIndex = 43;
@@ -166,7 +171,7 @@
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button5.Location = new System.Drawing.Point(312, 433);
+            this.button5.Location = new System.Drawing.Point(216, 390);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 42;
@@ -177,7 +182,7 @@
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button4.Location = new System.Drawing.Point(207, 433);
+            this.button4.Location = new System.Drawing.Point(135, 390);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 41;
@@ -188,7 +193,7 @@
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button3.Location = new System.Drawing.Point(104, 433);
+            this.button3.Location = new System.Drawing.Point(54, 390);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 40;
@@ -199,16 +204,16 @@
             // label5
             // 
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
-            this.label5.Location = new System.Drawing.Point(46, 280);
+            this.label5.Location = new System.Drawing.Point(54, 240);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(559, 126);
+            this.label5.Size = new System.Drawing.Size(399, 126);
             this.label5.TabIndex = 39;
             this.label5.Text = " ";
             // 
             // button2
             // 
             this.button2.ForeColor = System.Drawing.Color.Red;
-            this.button2.Location = new System.Drawing.Point(365, 232);
+            this.button2.Location = new System.Drawing.Point(297, 202);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 38;
@@ -218,7 +223,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(207, 232);
+            this.button1.Location = new System.Drawing.Point(138, 202);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 37;
@@ -242,9 +247,9 @@
             this.groupBox1.Controls.Add(this.checkBox2);
             this.groupBox1.Controls.Add(this.checkBox1);
             this.groupBox1.ForeColor = System.Drawing.Color.Red;
-            this.groupBox1.Location = new System.Drawing.Point(46, 37);
+            this.groupBox1.Location = new System.Drawing.Point(54, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(559, 165);
+            this.groupBox1.Size = new System.Drawing.Size(399, 165);
             this.groupBox1.TabIndex = 36;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "飲料種類與價格";
@@ -365,7 +370,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(683, 792);
+            this.ClientSize = new System.Drawing.Size(528, 699);
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.label7);
@@ -422,6 +427,7 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox1;
+
         private System.Windows.Forms.CheckBox checkBox4;
         private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.CheckBox checkBox2;
